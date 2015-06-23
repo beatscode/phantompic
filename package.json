@@ -1,0 +1,17 @@
+{
+  "name": "phantompic",
+  "version": "1.0.0",
+  "description": "Take pictures of urls and/or html strings using phantom js",
+  "main": "phantom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Casanova",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "^4.12.3",
+    "phantom": "^0.7.2",
+    "phantomjs": "^1.9.16"
+  }
+}
